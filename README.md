@@ -8,10 +8,6 @@ This application is best viewed in Mobile/Phone browser.
 
 Currently data has been managed using state. Hence don't refresh the page until the completion of match otherwise all data will be gone. For that you can use android application which you can **download** from the **Release Section**.
 
-## Is this live?
-
-Yes, this application is live and deployed in Netlify. You can check here [gully-cricket-score-board](https://gully-cricket.netlify.app/).
-
 ## Available Scripts
 
 In the project directory, you can run:
