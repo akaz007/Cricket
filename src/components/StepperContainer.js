@@ -7,7 +7,7 @@ const StepperContainer = () => {
     <div>
       <AppBar position='fixed'>
         <Toolbar>
-          <Typography variant='h6'>Multi Step Form</Typography>
+          <Typography variant='h6'>Matche Enrolement</Typography>
         </Toolbar>
       </AppBar>
       <Container>
