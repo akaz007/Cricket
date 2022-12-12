@@ -1,5 +1,5 @@
 .inning {
-  background: #3ea90b;
+  background: #3f51b5;
   color: white;
   padding: 0.5rem;
   font-size: 1.2rem;
@@ -16,7 +16,7 @@
 }
 #end-inning:active {
   color: #fff;
-  background-color: #3ea90b;
+  background-color: #3f51b5;
 }
 .score-container {
   margin: 0.5rem;
@@ -35,7 +35,7 @@
   display: none;
 }
 .badge {
-  background: 0a07ec;
+  background: #ffff4d;
   color: #000000;
   text-align: center;
   font-size: 0.75rem;
@@ -69,7 +69,7 @@
 }
 table thead {
   padding: 8px;
-  background-color: #3ea90b17;
+  background-color: #3f51b517;
 }
 .batting-container table td {
   padding: 8px 4px;
@@ -77,7 +77,7 @@ table thead {
 .bowler {
   display: flex;
   align-items: center;
-  background-color: #3ea90b17;
+  background-color: #3f51b517;
   padding: 8px;
 }
 .react-autosuggest__container {
@@ -132,10 +132,10 @@ table thead {
   border-spacing: 8px;
 }
 .score-types-container table .score-types {
-  background: #3ea90b17;
+  background: #3f51b517;
 }
 .score-types-container table td {
-  border: 1px solid #3ea90b;
+  border: 1px solid #3f51b5;
 }
 .score-types-button {
   display: block;
@@ -147,7 +147,7 @@ table thead {
 }
 .score-types-button:active {
   color: white;
-  background-color: 192fb8;
+  background-color: #3f51b5;
 }
 .score-types-button-noball {
   color: #000;
@@ -173,13 +173,13 @@ table thead {
   display: flex;
   justify-content: space-between;
   padding: 8px;
-  background: #3ea90b17;
+  background: #3f51b517;
 }
 .recent-over-container {
   margin: 0.8rem 0;
 }
 .recent-over-text {
-  background-color: fa3896;
+  background-color: #3f51b517;
   padding: 8px;
 }
 .recent-over-details table {
@@ -209,12 +209,12 @@ table thead {
   justify-content: space-between;
   padding: 6px 4px;
   color: #fff;
-  background: 19dc84;
+  background: #737373;
   font-size: 0.95rem;
 }
 .score-board-text {
   color: #fff;
-  background: bf3131;
+  background: #404040;
   padding: 8px;
 }
 .sb-batting {
@@ -242,7 +242,7 @@ table thead {
   justify-content: space-between;
   padding: 6px 4px;
   font-size: 0.85rem;
-  background: 1218ba;
+  background: #3f51b517;
 }
 .sb-bowling {
   display: flex;
