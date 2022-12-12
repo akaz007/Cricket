@@ -35,7 +35,7 @@
   display: none;
 }
 .badge {
-  background: #ffff4d;
+  background: 0a07ec;
   color: #000000;
   text-align: center;
   font-size: 0.75rem;
@@ -147,7 +147,7 @@ table thead {
 }
 .score-types-button:active {
   color: white;
-  background-color: #3f51b5;
+  background-color: 192fb8;
 }
 .score-types-button-noball {
   color: #000;
@@ -179,7 +179,7 @@ table thead {
   margin: 0.8rem 0;
 }
 .recent-over-text {
-  background-color: #3f51b517;
+  background-color: fa3896;
   padding: 8px;
 }
 .recent-over-details table {
@@ -209,12 +209,12 @@ table thead {
   justify-content: space-between;
   padding: 6px 4px;
   color: #fff;
-  background: #737373;
+  background: 19dc84;
   font-size: 0.95rem;
 }
 .score-board-text {
   color: #fff;
-  background: #404040;
+  background: bf3131;
   padding: 8px;
 }
 .sb-batting {
@@ -242,7 +242,7 @@ table thead {
   justify-content: space-between;
   padding: 6px 4px;
   font-size: 0.85rem;
-  background: #3f51b517;
+  background: 1218ba;
 }
 .sb-bowling {
   display: flex;
