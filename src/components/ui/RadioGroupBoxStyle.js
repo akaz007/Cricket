@@ -5,7 +5,7 @@ export const radioGroupBoxstyle = {
   transform: 'translate(-50%, -50%)',
   width: 340,
   bgcolor: 'background.paper',
-  border: '2px solid #3f51b5',
+  border: '2px solid #3fbd31',
   boxShadow: 24,
   p: '4px',
 }
