@@ -1,5 +1,5 @@
 .inning {
-  background: #3fbd31;
+  background: #3f51b5;
   color: white;
   padding: 0.5rem;
   font-size: 1.2rem;
@@ -35,10 +35,10 @@
   display: none;
 }
 .badge {
-  background: #4de4ff;
-  color: #FFFF00;
+  background: #ffff4d;
+  color: #000000;
   text-align: center;
-  font-size: 1.0rem;
+  font-size: 0.75rem;
   font-weight: 500;
   padding: 8px;
   margin-bottom: 8px;
@@ -54,7 +54,7 @@
   justify-content: space-between;
   font-size: 1.05rem;
   font-weight: bold;
-  padding: 5px;
+  padding: 4px;
 }
 .batting-container {
   display: flex;
@@ -72,7 +72,7 @@ table thead {
   background-color: #3f51b517;
 }
 .batting-container table td {
-  padding: 8px 6px;
+  padding: 8px 4px;
 }
 .bowler {
   display: flex;
@@ -214,7 +214,7 @@ table thead {
 }
 .score-board-text {
   color: #fff;
-  background: #ffffff;
+  background: #404040;
   padding: 8px;
 }
 .sb-batting {
@@ -261,5 +261,5 @@ table thead {
   font-size: 0.85rem;
 }
 .sb-bowling table td {
-  padding: 8px 6px;
+  padding: 8px 4px;
 }
