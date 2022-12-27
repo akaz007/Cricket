@@ -247,6 +247,7 @@ table thead {
 .sb-bowling {
   display: flex;
   align-items: center;
+  background-color: #0cd6ed;
   justify-content: flex-start;
 }
 .sb-bowling table {
