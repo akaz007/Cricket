@@ -1,6 +1,6 @@
 .inning {
-  background: #1ce83a;
-  color: Black;
+  background: #3f51b5;
+  color: white;
   padding: 0.5rem;
   font-size: 1.2rem;
   display: flex;
@@ -35,7 +35,7 @@
   display: none;
 }
 .badge {
-  background: #14faeb;
+  background: #ffff4d;
   color: #000000;
   text-align: center;
   font-size: 0.75rem;
@@ -69,7 +69,7 @@
 }
 table thead {
   padding: 8px;
-  background-color: #ed570c;
+  background-color: #3f51b517;
 }
 .batting-container table td {
   padding: 8px 4px;
@@ -77,7 +77,7 @@ table thead {
 .bowler {
   display: flex;
   align-items: center;
-  background-color: #0cd6ed;
+  background-color: #3f51b517;
   padding: 8px;
 }
 .react-autosuggest__container {
@@ -173,13 +173,13 @@ table thead {
   display: flex;
   justify-content: space-between;
   padding: 8px;
-  background: #0cede9;
+  background: #3f51b517;
 }
 .recent-over-container {
   margin: 0.8rem 0;
 }
 .recent-over-text {
-  background-color: #e90ced;
+  background-color: #3f51b517;
   padding: 8px;
 }
 .recent-over-details table {
@@ -209,12 +209,12 @@ table thead {
   justify-content: space-between;
   padding: 6px 4px;
   color: #fff;
-  background: #10ed0c;
+  background: #737373;
   font-size: 0.95rem;
 }
 .score-board-text {
   color: #fff;
-  background: #1d0ef0;
+  background: #404040;
   padding: 8px;
 }
 .sb-batting {
